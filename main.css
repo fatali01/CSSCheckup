@@ -1,0 +1,77 @@
+h1{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+.p1{
+    border: solid salmon 10px;
+    padding: white 20px;
+    margin: 10px;
+    margin-top: -10px;
+    background-color: aqua;
+    color: black;
+    font: 100;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    border: hidden;
+    background-color: aqua;
+    margin: 10px;
+    margin-top: -10px;
+    font: 300;
+}
+
+.p2{
+    background-color: rgb(216, 51, 216);
+    border: dotted aqua;
+    margin: 10px;
+    margin-top: -10px;
+    text-align: center;
+}
+
+h2{
+    border: solid black;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    margin-top: -10px;
+    text-align: center;
+}
+
+.list{
+    border: solid red;
+    margin: 10px;
+    background-color: aquamarine;
+    color: black;
+    margin-top: -10px;
+}
+
+#bugs{
+    position: fixed;
+    border: solid green 2px;
+    border-radius: 10px;
+    opacity: .7;
+    filter: brightness(100%);
+    transform: scaleX(-1);
+}
+
+h4{
+    text-align: center;
+    border: dotted red;
+    margin-top: -10px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: bisque;
+}
+
+#bugsvideo{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
